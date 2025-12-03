@@ -90,8 +90,11 @@
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atharsh1502/atharsh1502/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+<p><div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guru-1205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Guru-1205&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Guru-1205&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 </p>
 
 ---
